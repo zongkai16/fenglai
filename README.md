@@ -4,7 +4,9 @@
 
 [下载风来](https://github.com/zongkai16/fenglai-releases/releases/latest) · [使用帮助](docs/privacy-and-support.md) · [反馈问题](https://github.com/zongkai16/fenglai-releases/issues)
 
-![风来界面示意](assets/overview.png)
+![风来主界面](assets/overview.png)
+
+<img src="assets/widget.png" alt="风来桌面小组件" width="344">
 
 ## 功能
 
