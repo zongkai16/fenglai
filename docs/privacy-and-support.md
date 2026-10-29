@@ -42,4 +42,4 @@
 
 ## 问题反馈
 
-前往[问题反馈](https://github.com/zongkai16/fenglai-releases/issues)，附上风来版本、macOS 版本、Mac 机型和错误提示。
+前往[问题反馈](https://github.com/zongkai16/fenglai/issues)，附上风来版本、macOS 版本、Mac 机型和错误提示。

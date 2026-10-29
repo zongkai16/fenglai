@@ -2,7 +2,7 @@
 
 免费的 Mac 温度监测与风扇控制工具。
 
-[下载风来](https://github.com/zongkai16/fenglai-releases/releases/latest) · [使用帮助](docs/privacy-and-support.md) · [反馈问题](https://github.com/zongkai16/fenglai-releases/issues)
+[下载风来](https://github.com/zongkai16/fenglai/releases/latest) · [使用帮助](docs/privacy-and-support.md) · [反馈问题](https://github.com/zongkai16/fenglai/issues)
 
 ![风来主界面](assets/overview.png)
 
